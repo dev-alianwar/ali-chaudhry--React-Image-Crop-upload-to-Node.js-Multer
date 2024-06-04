@@ -1,3 +1,7 @@
+### React Image Crop and upload to Nodejs backend using Multer
+In this respository, there is a basic example of image cropping and uploading from react application to node.js backend using multer. 
+Further, Material UI is used to enhace UI of the frontend in react app. 
+
 ## Install Dependencies
 - cd into client and run command "npm install"
 - cd into server and run command "npm install"  
